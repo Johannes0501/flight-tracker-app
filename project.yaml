@@ -1,0 +1,8 @@
+name: flight-tracker-app
+subdomain: ft-app-g0
+type: docker
+port: 80
+description: "Flight Tracker Mobile/Web App"
+auto_ssl: true
+created_at: 2026-01-11T13:20:24.627Z
+created_by: theArchitect
